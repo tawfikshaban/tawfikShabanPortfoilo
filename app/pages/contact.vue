@@ -1082,11 +1082,10 @@ main > article > p a {
   text-decoration: underline;
 }
 main > figure {
-  flex-grow: 1;
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  height: 90%;
+  width: 50%;
 }
 main > figure img {
   max-width: 100%;
