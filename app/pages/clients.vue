@@ -29,7 +29,7 @@ const clients = ref([
       "i created a 3 QR Codes is used to open restaurant social media accounts, and food menu, and rating page on google maps ",
     date: "2025-1-1",
     img: "/images/lord.jpg",
-    url: "https://facebook.com",
+    url: "https://www.facebook.com/profile.php?id=100063916009998",
   },
   {
     name: "Lord Restaurant",
@@ -38,7 +38,7 @@ const clients = ref([
       "i created a simple webpage to show a restaurant food menu, and take a look at prices via it",
     date: "2025-1-28",
     img: "/images/lord.jpg",
-    url: "https://facebook.com",
+    url: "https://www.facebook.com/profile.php?id=100063916009998",
   },
   {
     name: "Opulent",
@@ -47,7 +47,7 @@ const clients = ref([
       "its a E-commerce to sell a popular and excellency perfumes brands, the website is designed and developed from scratch, focused on delivering a premium user experience with smooth interactions and high performance. ",
     date: "2026-1-1",
     img: "/images/opulent.jpg",
-    url: "https://facebook.com",
+    url: "https://www.facebook.com/profile.php?id=61566664060469",
   },
 ]);
 
