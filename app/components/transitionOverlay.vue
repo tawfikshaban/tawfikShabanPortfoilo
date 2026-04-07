@@ -83,7 +83,7 @@ router.afterEach(() => {
     case "cv":
       BgColor.value = "#222222";
       break;
-    case "contact":
+    case "Contact":
       BgColor.value = "#222222";
       break;
     default:
