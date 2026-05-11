@@ -1049,8 +1049,8 @@ setTimeout(() => {
           >
         </li>
         <li>
-          <NuxtLink class="text" to="/works" @mouseenter="ChangeImageSrc()"
-            >Works</NuxtLink
+          <NuxtLink class="text" to="/projects" @mouseenter="ChangeImageSrc()"
+            >projects</NuxtLink
           >
         </li>
         <li>
@@ -1326,12 +1326,12 @@ setTimeout(() => {
         </h2>
 
         <NuxtLink
-          to="/works"
+          to="/projects"
           class="worksUrl"
           data-scroll
           data-scroll-speed="0.2"
         >
-          works
+          projects
         </NuxtLink>
       </section>
 

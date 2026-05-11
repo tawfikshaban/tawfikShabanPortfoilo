@@ -456,8 +456,8 @@ onMounted(() => {
           >
         </li>
         <li>
-          <NuxtLink class="text" to="/works" @mouseenter="ChangeImageSrc()"
-            >Works</NuxtLink
+          <NuxtLink class="text" to="/projects" @mouseenter="ChangeImageSrc()"
+            >projects</NuxtLink
           >
         </li>
         <li>
@@ -561,7 +561,7 @@ onMounted(() => {
 
     <footer>
       <NuxtLink class="text" to="/">Home</NuxtLink>
-      <NuxtLink class="text" to="/works">work</NuxtLink>
+      <NuxtLink class="text" to="/projects">projects</NuxtLink>
       <NuxtLink class="text" to="/cv">my cv</NuxtLink>
       <NuxtLink class="text" to="mailto::teefashaban@gmail.com"
         >contact me</NuxtLink
